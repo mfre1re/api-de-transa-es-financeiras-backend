@@ -1,6 +1,6 @@
 # API de Transações
 
-Uma simples API de transações baseada em conceitos RESTful para gestão financeira. 
+Uma API de transações baseada em conceitos RESTful para gestão financeira. 
 
 ## Instalação
 - Clone o repositório usando o terminal ou bash:
